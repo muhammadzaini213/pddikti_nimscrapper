@@ -1,7 +1,7 @@
 ### Installation
 1. Pastikan anda sudah memiliki python terinstall di perangkat anda
 2. Jalankan script berikut di terminal
-   <pre><code>pip install pddikti.py</code></pre>
+<pre><code>pip install pddikti.py</code></pre>
 4. Clone repository ini
 <pre><code>git clone https://github.com/muhammadzaini213/pddikti_nimscrapper.git</code></pre>
 
