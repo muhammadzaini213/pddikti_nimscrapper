@@ -1,9 +1,9 @@
 ### Installation
 1. Pastikan anda sudah memiliki python terinstall di perangkat anda
 2. Jalankan script berikut di terminal
-'''pip install pddikti.py'''
-3. Clone repository ini
-'''git clone https://github.com/muhammadzaini213/pddikti_nimscrapper.git'''
+   <pre><code>pip install pddikti.py</code></pre>
+4. Clone repository ini
+<pre><code>git clone https://github.com/muhammadzaini213/pddikti_nimscrapper.git</code></pre>
 
 ### Sesuaikan Program Dengan Kampus Yang Ingin Anda Scrap
 1. nama_kampus -> Ubah dengan nama kampus yang tertulis di web pddikti
